@@ -1,4 +1,4 @@
-# Load Flow Analysis of a 9-Bus Power System Network
+# Load Flow Analysis of a Multi-Bus Power System Network
 
  📌 Overview
 This project implements and compares **Load Flow (Power Flow) Analysis** of a **9-bus power system** using:
